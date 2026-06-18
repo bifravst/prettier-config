@@ -4,7 +4,7 @@
   "description": "Prettier config for our projects",
   "type": "module",
   "main": "prettierrc.json",
-  "repository": "git@github.com:bifravst/prettier-config.git",
+  "repository": "git+https://github.com/bifravst/prettier-config.git",
   "homepage": "https://github.com/bifravst/prettier-config",
   "author": "Nordic Semiconductor ASA | nordicsemi.no",
   "license": "BSD-3-Clause",
